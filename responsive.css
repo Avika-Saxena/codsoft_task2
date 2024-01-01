@@ -1,0 +1,947 @@
+@media (max-width:1500px) {
+    .why-hire-me .in .myimage {
+        width: 55%;
+        height: 65%;
+    }
+    .pulse {
+        height: 65%;
+    }
+}
+
+@media (max-width:1345px) {
+    nav {
+        width: 85%;
+    }
+    header p,
+    .box2 .content ul li,
+    nav ul li a,
+    footer p,
+    .list ul li a,
+    .skills p,
+    .contact a,
+    p {
+        font-size: 13px;
+    }
+    .work .in {
+        width: 88%;
+    }
+    .work .logo {
+        width: 17%;
+    }
+}
+
+@media (max-width:1196px) {
+    nav {
+        width: 90%;
+    }
+    .work .in {
+        width: 95%;
+    }
+    .why-hire-me .in .myimage {
+        height: 60%;
+    }
+}
+
+@media (max-width:1150px) {
+    .tasks {
+        width: 90%;
+    }
+    .why-hire-me .in .myimage img {
+        top: -10%;
+    }
+}
+
+@media (max-width:1110px) {
+    nav {
+        width: 95%;
+    }
+    .work .in {
+        width: 90%;
+    }
+    .work .in .logo-name {
+        height: 62%;
+    }
+    .why-hire-me .in .myimage img {
+        top: -7%;
+    }
+    .div-link li,
+    .div-link a {
+        font-size: 13px;
+    }
+    .skills .cards {
+        left: 47%;
+    }
+    .cards-in {
+        height: 60%;
+    }
+}
+
+@media (max-width:1095px) {
+    header p,
+    .box2 .content ul li,
+    footer p,
+    .list ul li a,
+    .skills p,
+    .div-link li,
+    .div-link a,
+    .contact a,
+    nav ul li a {
+        font-size: 12px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    h2,
+    .work .name h2 {
+        font-size: 20px;
+    }
+    .why-hire-me h1 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width:1055px) {
+    body {
+        height: 650vh;
+    }
+    nav {
+        width: 100%;
+        border-radius: 0%;
+    }
+    .Home {
+        border-radius: 0%;
+    }
+    nav div {
+        width: 100%;
+    }
+    header {
+        width: 100%;
+        height: 75%;
+    }
+    .box1 {
+        height: 11%;
+    }
+    .box2 {
+        height: 78%;
+        justify-content: center;
+    }
+    .content {
+        width: 28%;
+        height: 80%;
+    }
+    .check {
+        opacity: 1;
+    }
+    .box2 .content ul li {
+        display: none;
+    }
+    .myimage {
+        width: 34%;
+        height: 100%;
+        justify-content: center;
+    }
+    .myimage-in img {
+        width: 88%;
+        top: 4%;
+    }
+    main {
+        height: 80%;
+        position: relative;
+        top: -3%;
+    }
+    .why-hire-me,
+    .skills,
+    .projects,
+    .work,
+    .extracuricular {
+        width: 100%;
+        border-radius: 0px;
+    }
+    .work .logo {
+        width: 14%;
+    }
+    .why-hire-me .in {
+        width: 40%;
+    }
+    .why-hire-me .in .myimage {
+        width: 52%;
+        height: 60%;
+    }
+    .why-hire-me .in .myimage img {
+        width: 133%;
+        height: 125%;
+        top: -8%;
+    }
+    .in1 {
+        width: 55%;
+    }
+    footer h1 {
+        font-size: 30px;
+    }
+    .pulse {
+        display: none;
+    }
+}
+
+@media (max-width:991px) {
+    .Home {
+        width: 13%;
+    }
+    nav div ul li {
+        margin-left: 39px;
+        margin-right: 39px;
+    }
+    .why-hire-me .in .myimage {
+        width: 56%;
+    }
+}
+
+@media (max-width:955px) {
+    nav div ul li {
+        margin-left: 38px;
+        margin-right: 38px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .why-hire-me .in .myimage {
+        width: 56%;
+    }
+    .myimage-in img {
+        top: -5%;
+    }
+    .why-hire-me h1 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    footer h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width:940px) {
+    nav div ul li {
+        margin-left: 36px;
+        margin-right: 36px;
+    }
+    footer h1 {
+        font-size: 25px;
+    }
+    .work .logo {
+        width: 14%;
+        height: 60%;
+    }
+}
+
+@media (max-width:914px) {
+    nav div ul li {
+        margin-left: 34px;
+        margin-right: 34px;
+        font-size: 12px;
+    }
+    footer {
+        height: 11%;
+    }
+    .part1 {
+        height: 20%;
+    }
+    .bigbox {
+        width: 35%;
+    }
+    .part1,
+    .part2,
+    .part3 {
+        width: 96%;
+    }
+    .part2 {
+        height: 65%;
+    }
+    .email {
+        height: 40%;
+        width: 30%;
+    }
+    form {
+        width: 66%;
+        margin-top: 4%;
+        height: 30%;
+        margin-left: 0%;
+    }
+    footer .list {
+        height: 80%;
+    }
+}
+
+@media (max-width:885px) {
+    nav div ul li {
+        margin-left: 32px;
+        margin-right: 32px;
+    }
+    .why-hire-me .in .myimage {
+        width: 59%;
+    }
+}
+
+@media (max-width:857px) {
+    nav div ul li {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .skills .cards-in {
+        width: 13.5%;
+    }
+}
+
+@media (max-width:830px) {
+    nav div ul li {
+        margin-left: 28px;
+        margin-right: 28px;
+    }
+}
+
+@media(max-width:739px) {
+    nav div ul li {
+        margin-left: 26px;
+        margin-right: 26px;
+    }
+}
+
+@media (max-width:735px) {
+    .skills .cards {
+        width: 276%;
+        left: 98%;
+    }
+    .skills .cards-in {
+        height: 57%;
+        width: 11.5%;
+    }
+    .skills p {
+        width: 50%;
+    }
+    .work .logo {
+        width: 17%;
+        height: 59%;
+    }
+    .work .name {
+        width: 60%;
+    }
+    .work .name h2 {
+        font-size: 18px;
+    }
+    .work span {
+        font-size: 14px;
+    }
+    .projects .in {
+        width: 305%;
+        left: 100%;
+    }
+    .why-hire-me .in .myimage {
+        width: 65%;
+        height: 54%;
+    }
+    main {
+        top: -4%;
+    }
+    .extracuricular .cards {
+        height: 75%;
+    }
+    .tasks div {
+        width: 41%;
+    }
+    .contact .fa-xl {
+        font-size: 1em;
+    }
+    .contact {
+        width: 90%;
+        height: 17%;
+    }
+    .content {
+        width: 28%;
+        height: 60%;
+    }
+}
+
+@media(max-width:717px) {
+    nav div ul li {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
+@media (max-width:698px) {
+    nav div ul li {
+        margin-left: 22px;
+        margin-right: 22px;
+    }
+    h1 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:671px) {
+    nav div ul li {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .work .name h2,
+    .work .details h2 {
+        font-size: 16px;
+    }
+    .work span {
+        font-size: 12px;
+    }
+    .why-hire-me .in .myimage {
+        background-color: transparent;
+    }
+}
+
+@media (max-width:653px) {
+    nav div ul li {
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+}
+
+@media (max-width:641px) {
+    header p,
+    .box2 .content ul li,
+    footer p,
+    .list ul li,
+    .skills p,
+    .div-link li,
+    .div-link a,
+    .contact a,
+    nav ul li a,
+    p,
+    .tasks div h2,
+    .tasks div h4 {
+        font-size: 11px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    h1,
+    footer h1 {
+        font-size: 23px;
+    }
+    .why-hire-me h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    footer .list h4 {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:629px) {
+    nav div ul li {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
+
+@media (max-width:616px) {
+    nav div ul li {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
+
+@media (max-width:600px) {
+    nav div ul li {
+        margin-left: 14px;
+        margin-right: 14px;
+    }
+}
+
+@media (max-width:588px) {
+    nav div ul li {
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+    .skills p {
+        width: 60%;
+    }
+}
+
+@media (max-width:572px) {
+    nav ul li a {
+        font-size: 10px;
+    }
+    nav div ul li {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}
+
+@media (max-width:561px) {
+    body {
+        height: 750vh;
+    }
+    nav div ul li {
+        margin-left: 14px;
+        margin-right: 14px;
+    }
+    nav div ul li a {
+        font-size: 10px;
+    }
+    .header-box {
+        width: 100%;
+        height: 20%;
+    }
+    nav {
+        height: 6%;
+    }
+    header {
+        width: 100%;
+        height: 91%;
+    }
+    .box1 {
+        height: 7%;
+    }
+    .box2 {
+        height: 78%;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content {
+        width: 92%;
+        height: 18%;
+    }
+    .myimage {
+        width: 100%;
+        height: 64%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .myimage-in {
+        width: 100%;
+        height: 82%;
+    }
+    .myimage-in img {
+        width: 73%;
+        top: -10%;
+    }
+    #content2 {
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-start;
+        width: 98%;
+    }
+    .contact {
+        width: 28%;
+        height: 10%;
+        align-items: flex-start;
+        justify-content: center;
+    }
+    main {
+        height: 70%;
+        position: relative;
+        top: -3%;
+    }
+    .skills .heading {
+        width: 90%;
+        height: 15%;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .skills p {
+        width: 100%;
+    }
+    .work .in {
+        width: 100%;
+        height: 45%;
+        flex-direction: column;
+    }
+    .work .logo-name {
+        width: 45%;
+        height: 41%;
+        border: none;
+    }
+    .work .logo {
+        width: 17%;
+        height: 59%;
+    }
+    .work .details {
+        width: 85%;
+        height: 75%;
+    }
+    .why-hire-me {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .why-hire-me .in {
+        width: 100%;
+        height: 45%;
+    }
+    .why-hire-me .in .myimage {
+        width: 42%;
+        height: 100%;
+        background: #01418d1c;
+    }
+    .why-hire-me .in .myimage img {
+        width: 104%;
+        height: 115%;
+        top: -7%;
+    }
+    .in1 {
+        width: 85%;
+        height: 50%;
+        align-items: center;
+        justify-content: center;
+    }
+    .tasks {
+        width: 93%;
+        justify-content: space-between;
+    }
+    .tasks div {
+        width: 30%;
+        align-items: center;
+    }
+    .why-hire-me button {
+        height: 14%;
+    }
+    footer {
+        height: 9%;
+    }
+    footer button {
+        width: 20%;
+        height: 40%;
+    }
+    .bigbox {
+        display: none;
+    }
+    footer .list {
+        height: 80%;
+        margin-left: 11px;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    footer ul {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+    }
+    footer .part2 {
+        justify-content: center;
+    }
+    .list ul li {
+        font-size: 13px;
+        width: 85%;
+        text-align: start;
+    }
+    .email {
+        height: 32%;
+        width: 30%;
+        top: -21%;
+    }
+    header p,
+    .box2 .content ul li,
+    footer p,
+    .list ul li,
+    .skills p,
+    .contact a,
+    p {
+        font-size: 13px;
+        width: 85%;
+        text-align: center;
+    }
+    .list ul li {
+        text-align: start;
+    }
+}
+
+@media (max-width:533px) {
+    nav div ul li {
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .contact {
+        flex-direction: column;
+        align-items: center;
+        width: 40%;
+    }
+    .heading {
+        width: 100%;
+    }
+    .myimage-in img {
+        top: -8%;
+    }
+}
+
+@media (max-width:509px) {
+    nav div ul li {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .contact {
+        flex-direction: column;
+        align-items: center;
+        width: 40%;
+    }
+    .heading {
+        width: 100%;
+    }
+    .myimage-in img {
+        top: -5%;
+    }
+}
+
+@media (max-width:495px) {
+    .work .logo-name {
+        width: 70%;
+    }
+    .skills .cards {
+        width: 600%;
+        left: 250%;
+    }
+    .skills .cards-in {
+        height: 70%;
+        width: 12.5%;
+    }
+    .projects .in {
+        width: 600%;
+        left: 247%;
+    }
+    .projects .in .cards-in {
+        width: 11%;
+        height: 70%;
+    }
+}
+
+@media (max-width:479px) {
+    nav div ul li {
+        display: none;
+    }
+    nav {
+        background-color: #f5f5f5;
+    }
+    #popup-button {
+        display: flex;
+    }
+    .fontawsm {
+        opacity: 1;
+    }
+    .Home span {
+        display: none;
+    }
+    .work.logo {
+        width: 15%;
+    }
+}
+
+@media (max-width:423px) {
+    .details {
+        align-items: center;
+    }
+    .fontawsm {
+        opacity: 1;
+    }
+    .why-hire-me .in .myimage img {
+        width: 139%;
+        height: 115%;
+        top: -7%;
+    }
+    .why-hire-me .in .myimage {
+        width: 50%;
+    }
+    .extracuricular .cards {
+        width: 600%;
+        left: 250%;
+    }
+    header p,
+    .box2 .content ul li,
+    footer p,
+    .list ul li,
+    .skills p,
+    .contact a,
+    p {
+        font-size: 9.5px;
+    }
+    footer button {
+        width: 40%;
+    }
+    footer h4 {
+        font-size: 13px;
+    }
+    .email {
+        width: 33%;
+        top: -24%;
+    }
+    form {
+        width: 95%;
+        margin-top: 8%;
+        height: 26%;
+    }
+}
+
+@media (max-width:410px) {
+    .myimage-in img {
+        width: 98%;
+        top: -3%;
+    }
+    .tasks div {
+        width: 34%;
+    }
+}
+
+@media (max-width:370px) {
+    .myimage-in img {
+        width: 98%;
+        top: -3%;
+    }
+    .tasks div {
+        width: 40%;
+    }
+    h1 {
+        font-size: 23px;
+    }
+    footer h1 {
+        font-size: 18px;
+    }
+    .work.logo {
+        height: 50%;
+    }
+    .list ul li a {
+        font-size: 10px;
+    }
+}
+
+@media (max-width:350px) {
+    h1,
+    footer h1 {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    .why-hire-me .myimage-in {
+        width: 70%;
+    }
+}
+
+@media (max-width:320px) {
+    header {
+        height: 95%;
+    }
+    .myimage-in {
+        width: 100%;
+        height: 58%;
+    }
+    .myimage-in img {
+        width: 106%;
+        top: -14%;
+    }
+    #content2 {
+        position: relative;
+        top: -10%;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    footer h1 {
+        font-size: 16px;
+    }
+    footer button {
+        width: 30%;
+        height: 30%;
+    }
+    .list {
+        margin-left: 5px;
+    }
+    footer .list h4,
+    .list ul li a {
+        font-size: 10px;
+    }
+    footer .list {
+        justify-content: flex-start;
+        margin-left: 2px;
+    }
+    footer .list ul {
+        margin-top: 10px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    .why-hire-me .in .myimage {
+        width: 60%;
+    }
+    .work .logo-name {
+        width: 90%;
+    }
+    .work .logo {
+        width: 15%;
+    }
+    .contact a {
+        font-size: 6%;
+    }
+    footer .list h4 {
+        font-size: 12px;
+    }
+    .email {
+        width: 41%;
+        top: -30%;
+        height: 24%;
+        justify-content: flex-start;
+    }
+    form {
+        width: 95%;
+        margin-top: 0%;
+        height: 23%;
+    }
+}
+
+@media (max-width:335px) {
+    .work .logo {
+        height: 50%;
+    }
+}
+
+@media (max-width:305px) {
+    .tasks div {
+        width: 50%
+    }
+    .email {
+        display: none;
+    }
+    h1 {
+        font-size: 17px;
+    }
+    h2,
+    .work.logo-name .name h2,
+    .details h2 {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:290px) {
+    header p,
+    .box2 .content ul li,
+    footer p,
+    .list ul li,
+    .skills p,
+    .contact a,
+    p,
+    .tasks div {
+        font-size: 7px;
+    }
+    .why-hire-me .in .myimage {
+        width: 65%;
+    }
+    .list ul li a {
+        font-size: 8px;
+    }
+    .popup ul li a {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+    .popup ul li {
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+}
